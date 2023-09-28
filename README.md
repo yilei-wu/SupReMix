@@ -15,7 +15,7 @@ In representation learning, regression has traditionally received less attention
 ## Usage
 We separate the codebase for different datasets into different subfolders. Please go into the subfolders for more information (e.g., installation, dataset preparation, training, evaluation & models).
 
-#### IMDB-WIKI &nbsp;|&nbsp; AgeDB-DIR &nbsp;|&nbsp; STS-B-DIR &nbsp;|&nbsp; UCI-airfoil &nbsp;|&nbsp; UK Biobank  &nbsp;|&nbsp; HCP-lifespan
+#### IMDB-WIKI &nbsp;|&nbsp; AgeDB-DIR &nbsp;|&nbsp; STS-B-DIR &nbsp;|&nbsp; UCI-airfoil &nbsp;|&nbsp; UK Biobank  &nbsp;|&nbsp; HCP-Aging
 
 ## Code Preview
 
