@@ -22,13 +22,19 @@ We separate the codebase for different datasets into different subfolders. Pleas
 Coming Soon!
 
 ## Updates
-- [09/2023] [arXiv version](********) posted. Please stay tuned for updates.
+- [09/2023] [arXiv version](https://arxiv.org/abs/2309.16633) posted. Please stay tuned for updates.
 
 ## Citation
 If you find this code or idea useful, please cite our work:
 ```bib
-
-
+@misc{wu2023mixup,
+      title={Mixup Your Own Pairs}, 
+      author={Yilei Wu and Zijian Dong and Chongyao Chen and Wangchunshu Zhou and Juan Helen Zhou},
+      year={2023},
+      eprint={2309.16633},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
 ```
 
 ## Contact
