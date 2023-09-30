@@ -38,7 +38,7 @@ If you find this code or idea useful, please cite our work:
 ```
 
 ## Contact
-If you have any questions, feel free to contact us through email (yilei.wu@u.nus.edu & zijian.dong@u.nus.edu) or Github issues. Enjoy!
+If you have any questions, feel free to contact us through email (yilei.wu@u.nus.edu & zijian.dong@u.nus.edu) or GitHub issues. Enjoy!
 
 
 
